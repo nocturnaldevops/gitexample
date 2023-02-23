@@ -6,7 +6,9 @@ terraform
 ansible
 prometheus 
 grafana
-
 bamboo
 travisci
 circleci
+maven
+nexus
+sonarqube
