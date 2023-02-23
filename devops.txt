@@ -1,3 +1,6 @@
 git and github
 jenkins
 docker
+kubernetes
+terraform
+ansible
